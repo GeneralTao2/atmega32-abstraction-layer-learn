@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "defines.h": "c",
+        "interrupt.h": "c",
+        "utils.h": "c",
+        "stringmanager.h": "c",
+        "dio.h": "c",
+        "signalgateway.h": "c",
+        "lcddisplay.h": "c",
+        "delay.h": "c",
+        "twi.h": "c",
+        "twsi.h": "c",
+        "oled.h": "c"
+    }
+}
